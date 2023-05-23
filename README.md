@@ -48,3 +48,4 @@ Se você encontrar algum problema ao usar o aplicativo ou tiver sugestões de me
 
 Este projeto está licenciado sob a licença [MIT](LICENSE). Sinta-se à vontade para utilizar, modificar e distribuir o aplicativo de acordo com os termos da licença.
 ![Screenshot](https://github.com/marcianomatias/contador-de-palavras/blob/main/img/Captura%20de%20tela%20de%202023-05-22%2023-44-52.png)
+![Screenshot](https://github.com/marcianomatias/contador-de-palavras/blob/main/img/Captura%20de%20tela%20de%202023-05-22%2023-45-46.png?raw=true)
